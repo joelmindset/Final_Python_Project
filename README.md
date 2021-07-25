@@ -16,7 +16,6 @@ This was my first live project in my bootcamp at the Tech Academy. I learned how
 
 ![Model](https://user-images.githubusercontent.com/82834522/126914177-c939b3dc-d337-4a50-9af1-4c9d1db912e6.PNG)
 ![viewsimports](https://user-images.githubusercontent.com/82834522/126914191-c371d557-9258-4b65-9371-a12f8ded9054.PNG)
-![viewsRates](https://user-images.githubusercontent.com/82834522/126914182-7449eee3-f235-4c3a-a5d2-cc081d4454bc.PNG)
 ![add_inv](https://user-images.githubusercontent.com/82834522/126914201-14904630-6226-431c-b299-4bcace5e3d6e.PNG)
 ![form](https://user-images.githubusercontent.com/82834522/126914205-79d11d5e-d383-4ae5-8f31-51f837edc827.PNG)
 
