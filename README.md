@@ -5,7 +5,7 @@ Final Python Django Project
 # Python Django Live Project
 This was my first live project in my bootcamp at the Tech Academy. I learned how to work with a team using Azure devops scrum. We had daily stand ups and were assigned stories.  Using the Django framework, I created an app for keeping track of your precious metal inventory. I had to use front and back-end development. 
 
-###Back-end:
+### Back-end:
 	* Built django project setting up models, forms, views, urls, and ext. One of the biggest things I learned from this project was using APIs and Scraping the web.
 	* On the app I set up a basic functional website with a database to manage your precious metals inventory.
 	* With the use of APIs and beautifulsoup I was able to make current prices on an item displayed on  my web content.
